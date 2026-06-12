@@ -23,7 +23,6 @@ Build my own network that I could learn on without changing my parents' setup.
 * The EX6120 is a wireless bridge that brings my parents' Wi-Fi connection into pfSense.
 * pfSense became the actual router for my lab once the WAN was connected correctly.
 * An IDS only sees traffic that crosses the interface it's monitoring, which is why my LAN Nmap scan didn't trigger alerts on the WAN interface.
-* I learn more by troubleshooting my own mistakes than by just following tutorials.
 
 ## Next Time
 
