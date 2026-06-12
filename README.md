@@ -4,6 +4,16 @@ Hey! I'm James.
 
 I created this homelab because I wanted a place to actually practice instead of just watching videos or taking notes. This is where I build things, break them, fix them, and document what I learn along the way.
 
+## 📅 Project Timeline
+
+- June 2026 - Built my first pfSense firewall
+- June 2026 - Configured AX80 as an Access Point
+- June 2026 - Deployed Suricata IDS
+
+## 🗺️ Current Network Topology
+
+![JamesLab Network](diagrams/network-topology-v1.png)
+
 ## 🏗️ Current Setup
 
 ### Hardware
@@ -64,3 +74,5 @@ As I continue building JamesLab, you'll find:
 * Future ideas and improvements
 
 Everything here is part of my learning journey, and I'll continue updating it as JamesLab grows.
+
+
