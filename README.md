@@ -6,9 +6,13 @@ I created this homelab because I wanted a place to actually practice instead of 
 
 ## 📅 Project Timeline
 
-- June 2026 - Built my first pfSense firewall
-- June 2026 - Configured AX80 as an Access Point
-- June 2026 - Deployed Suricata IDS
+### June 2026
+
+- 🚀 Created JamesLab
+- 🛡️ Built my first pfSense firewall
+- 🌐 Configured the AX80 as an Access Point
+- 🔍 Deployed Suricata IDS
+- 🐳 Installed Docker and Portainer on my Raspberry Pi
 
 ## 🗺️ Current Network Topology
 
