@@ -33,11 +33,20 @@ I created this homelab because I wanted a place to actually practice instead of 
 ### Operating Systems
 
 * pfSense CE
+* Raspberry Pi OS
 * Kali Linux
 
 ### Security Tools
 
 * Suricata IDS
+* Tailscale VPN
+
+### Services
+
+* Docker
+* Portainer
+* Uptime Kuma
+
 
 ## 📚 Currently Learning
 
