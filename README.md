@@ -65,18 +65,23 @@ I created this homelab because I wanted a place to actually practice instead of 
 * Wazuh SIEM
 * Pi-hole
 * WireGuard VPN
-* Raspberry Pi Server
+* Homepage Dashboard
 
 ## 📈 Progress
 
-* ✅ Built my first pfSense firewall
-* ✅ Configured the AX80 as an Access Point
-* ✅ Connected my lab to the internet through a wireless bridge
-* ✅ Installed and configured Suricata IDS
-* ⬜ Create VLANs
-* ⬜ Deploy Jellyfin
-* ⬜ Deploy Wazuh
-* ⬜ Set up WireGuard VPN
+✅ Built my first pfSense firewall
+✅ Configured the AX80 as an Access Point
+✅ Connected my lab to the internet through a wireless bridge
+✅ Installed and configured Suricata IDS
+✅ Installed Docker and Portainer
+✅ Deployed Uptime Kuma monitoring
+✅ Configured secure remote access with Tailscale
+⬜ Create VLANs
+⬜ Deploy Pi-hole
+⬜ Deploy Jellyfin
+⬜ Deploy Wazuh
+⬜ Learn Docker Compose
+⬜ Configure WireGuard VPN
 
 ## 📂 What's in this Repository?
 
@@ -88,6 +93,8 @@ As I continue building JamesLab, you'll find:
 * Lessons learned
 * Mistakes I made and how I fixed them
 * Future ideas and improvements
+
+
 
 Everything here is part of my learning journey, and I'll continue updating it as JamesLab grows.
 
