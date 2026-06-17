@@ -8,11 +8,14 @@ I created this homelab because I wanted a place to actually practice instead of 
 
 ### June 2026
 
-- 🚀 Created JamesLab
-- 🛡️ Built my first pfSense firewall
-- 🌐 Configured the AX80 as an Access Point
-- 🔍 Deployed Suricata IDS
-- 🐳 Installed Docker and Portainer on my Raspberry Pi
+* 🚀 Created JamesLab
+* 🛡️ Built my first pfSense firewall
+* 🌐 Configured the AX80 as an Access Point
+* 🔍 Deployed Suricata IDS
+* 🐳 Installed Docker and Portainer on my Raspberry Pi
+* 📈 Deployed Uptime Kuma for homelab monitoring
+* 🔒 Configured Tailscale VPN for secure remote access
+* 📱 Successfully connected to my homelab remotely
 
 ## 🗺️ Current Network Topology
 
